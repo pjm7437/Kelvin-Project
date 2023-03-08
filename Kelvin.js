@@ -7,7 +7,7 @@ var celsius = kelvin - 273;
 // fahrenheit as a function of celsius
 var fahrenheit = Math.floor(celsius * (9/5) + 32);
 
-//newton as a function of fahrenheit
+//newton as a function of celsius
 var newton = Math.floor(celsius * (33/100));
 
 
